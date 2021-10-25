@@ -16,7 +16,7 @@ body{
 }
 .container {
     max-width: 1194px ;
-    margin:\     auto;
+    margin: auto;
 }
 .header {
     display: flex;
